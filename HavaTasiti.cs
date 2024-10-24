@@ -1,7 +1,9 @@
 public class HavaTasiti:Tasit{
 
 
-    // base 
+    // base anahtar kelimesi ile , base sınıfın ctor'una bir yönlendirme işlemi yapmış olduk!!
+    // bunu yapmamızın sebebi, kalıtım hiyerarşisinde, eğer türeyen sınıfdan nesne örneği almak istediğimizde,
+    //türetilen sınıfında belleğe çıkması idi. Türetilen sınıf belleğe çıkarken, türeyen sınıf içerisinden değerinin verilmesi için ctor yönlendirmesi yapmış olduk!!
     public HavaTasiti(int kapasite):base(kapasite)
     {
         // bu sınıf Tasit sınıfından kalıtım almıştır. Bu sınıf içerisinde kalıtım yolu ile gelen fieldlara erişmek için 
@@ -12,7 +14,7 @@ public class HavaTasiti:Tasit{
         // this keyword'üne benzer bir keyword'dür.
         //base.Kapasite=10;
         
-        this.Kapasite=kapasite;
+        //this.Kapasite=kapasite;
 
         // Soru : Ben çalıştırma düğmesine bastığımda, kapasite değeri  ile ilgili nasıl bir hareket olacak!!
 
