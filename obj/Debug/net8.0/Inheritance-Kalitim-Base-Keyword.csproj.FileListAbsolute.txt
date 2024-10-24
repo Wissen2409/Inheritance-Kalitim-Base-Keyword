@@ -1,0 +1,14 @@
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/bin/Debug/net8.0/Inheritance-Kalitim-Base-Keyword
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/bin/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.deps.json
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/bin/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.runtimeconfig.json
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/bin/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.dll
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/bin/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.pdb
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.AssemblyInfoInputs.cache
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.AssemblyInfo.cs
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.dll
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/refint/Inheritance-Kalitim-Base-Keyword.dll
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.pdb
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/Inheritance-Kalitim-Base-Keyword.genruntimeconfig.cache
+/Users/emrahelis/Inheritance-Kalitim-Base-Keyword/obj/Debug/net8.0/ref/Inheritance-Kalitim-Base-Keyword.dll
